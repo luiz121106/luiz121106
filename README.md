@@ -1,16 +1,16 @@
-## Hi there 👋
+## Seja Bem-vindo
 
-<!--
-**luiz121106/luiz121106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Trabalho em duas empresas como marketing
+- 🌱 Estudo engenharia de software
+- 📫 Contate-me no email: Lg.lima1211@gmail.com
+- 😄 Pronomes: ele/dele
+- ⚡ Curioisidade: Namoro e jogo futebol
 
-Here are some ideas to get you started:
+  ##
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+  ##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Projetos desenvolvidos até agora na minha vida
+  - criação de um site: https://braziliancleaners850.com/
+  - Auxilio com redes sociais: https://www.instagram.com/escolatual e https://www.instagram.com/braziliancleaners850
+  - desenvolvimento de planilhas para axuilio da empresa.
