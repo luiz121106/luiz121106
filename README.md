@@ -3,10 +3,9 @@
 - 🔭 Trabalho em duas empresas como marketing
 - 🌱 Estudo engenharia de software
 - 📫 Contate-me no email: Lg.lima1211@gmail.com
+- [LinkedIn](https://fjdkfbskdksi)
 - ⚡ Curioisidade: Namoro e jogo futebol
 
-  ##
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
   ##
 
   ## Projetos desenvolvidos até agora na minha vida
