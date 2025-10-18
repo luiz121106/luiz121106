@@ -3,7 +3,6 @@
 - 🔭 Trabalho em duas empresas como marketing
 - 🌱 Estudo engenharia de software
 - 📫 Contate-me no email: Lg.lima1211@gmail.com
-- 😄 Pronomes: ele/dele
 - ⚡ Curioisidade: Namoro e jogo futebol
 
   ##
