@@ -14,3 +14,7 @@
   - criação de um site: https://braziliancleaners850.com/
   - Auxilio com redes sociais: https://www.instagram.com/escolatual e https://www.instagram.com/braziliancleaners850
   - desenvolvimento de planilhas para axuilio da empresa.
+
+  ## Um pouco mais sobre minha vida profissional!
+
+  https://docs.google.com/document/d/1Yfe21GlGyBjfTuMFshfqs4u_CNokhAnvUFQfw9jwDNE/edit?usp=sharing
