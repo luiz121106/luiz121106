@@ -3,7 +3,8 @@
 - 🔭 Trabalho em duas empresas como marketing
 - 🌱 Estudo engenharia de software
 - 📫 Contate-me no email: Lg.lima1211@gmail.com
-- [LinkedIn](https://fjdkfbskdksi)
+- [LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit
+  )
 - ⚡ Curioisidade: Namoro e jogo futebol
 
   ##
